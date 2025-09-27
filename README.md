@@ -14,14 +14,14 @@ This project combines **art + code** — I drew simple pixel art on my phone, th
 - Simple and fun example of **creative coding**
  
 ---
-
 ## 🖼️ Pixel Art Frames
-<img src="pic1.jpeg" width="100">
-<img src="pic2.jpeg" width="100">
-<img src="pic3.jpeg" width="100">
-<img src="pic4.jpeg" width="100">
-<img src="pic5.jpeg" width="100">
-<img src="pic6.jpeg" width="100">
+<img src="pic1.jpg" width="100">
+<img src="pic2.jpg" width="100">
+<img src="pic3.jpg" width="100">
+<img src="pic4.jpg" width="100">
+<img src="pic5.jpg" width="100">
+<img src="pic6.jpg" width="100">
+
 
 ---
 
